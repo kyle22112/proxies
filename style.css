@@ -2,6 +2,9 @@ body {
   font-family: 'Raleway', sans-serif;
   background-color: rgb(0, 31, 171);
 }
+p {
+  text-align: center;
+}
 h1 {
   background-color: rgb(28, 111, 163);
 }
